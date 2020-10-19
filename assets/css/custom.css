@@ -5,15 +5,15 @@
 
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
-/* #banner {
-  background-image: url(../../images/pic01.jpg);
+#banner {
+  background-image: url(../../images/city-background-edit-darker.jpg);
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
   text-align: center;
   cursor: default;
   padding: 10em 4em 9em 4em;
-} */
+}
 
 
 
@@ -34,3 +34,45 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+ .center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 75%;
+ }
+
+.newsletters {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.myimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.styletiles {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.CTA {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  /* box-shadow: 2px 2px 5px grey; */
+}
+
+
+/* .japanese {
+  color: #d4772d;
+} */

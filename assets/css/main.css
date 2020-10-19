@@ -3632,7 +3632,7 @@ take precedence the ones in this file. */
 			order: 1;
 			width: 50%;
 			display: block;
-			background: #FFF;
+			background: #f3f0e1;
 			padding: 8em;
 			text-align: right;
 			position: relative;
@@ -3658,7 +3658,7 @@ take precedence the ones in this file. */
 
 			.post .content header p {
 				font-size: 1em;
-				font-style: italic;
+				/* font-style: italic; */
 				border-top: 1px solid rgba(144, 144, 144, 0.25);
 				border-bottom: 1px solid rgba(144, 144, 144, 0.25);
 				padding: .5em 0;
@@ -3768,7 +3768,7 @@ take precedence the ones in this file. */
 			}
 
 			.post.style1 a {
-				color: #1abc9c;
+				color: #d4772d;
 			}
 
 			.post.style1 strong, .post.style1 b {
@@ -3824,7 +3824,7 @@ take precedence the ones in this file. */
 				.post.style1 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #1abc9c !important;
+					color: #d4772d !important;
 				}
 
 					.post.style1 input[type="submit"].alt:hover,
@@ -3947,7 +3947,7 @@ take precedence the ones in this file. */
 					}
 
 				.post.style1.invert .content {
-					background: #1abc9c;
+					background: #2c2923;
 				}
 
 					.post.style1.invert .content header p {
@@ -3982,7 +3982,7 @@ take precedence the ones in this file. */
 			}
 
 			.post.style2 a {
-				color: #3498db;
+				color: #d4772d;
 			}
 
 			.post.style2 strong, .post.style2 b {
@@ -4038,7 +4038,7 @@ take precedence the ones in this file. */
 				.post.style2 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #3498db !important;
+					color: #d4772d !important;
 				}
 
 					.post.style2 input[type="submit"].alt:hover,
@@ -4177,7 +4177,7 @@ take precedence the ones in this file. */
 					}
 
 				.post.style2.invert .content {
-					background: #3498db;
+					background: #2c2923;
 				}
 
 					.post.style2.invert .content header p {
